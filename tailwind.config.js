@@ -16,9 +16,6 @@ export default {
     fontFamily: {
       'Roboto': ['Roboto', 'sans-serif'],
     },
-    listStyleImage: {
-      iconList: 'url("./src/assets/images/icon-list.svg")',
-    },
   },
   plugins: [],
 }
