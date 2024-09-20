@@ -16,6 +16,9 @@ export default {
     fontFamily: {
       'Roboto': ['Roboto', 'sans-serif'],
     },
+    backgroundImage: {
+      'gradient-1': 'linear-gradient(to top, #FF527B, #FF6A3A)',
+    }
   },
   plugins: [],
 }
